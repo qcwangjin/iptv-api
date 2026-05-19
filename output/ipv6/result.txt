@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-19 21:41:05,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-05-20 07:56:11,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -19,17 +19,16 @@ CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 浙江留学,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
-诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 诸暨新闻综合,https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
+诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
 龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
-萧山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
-萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
+萧山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
 萧山新闻综合,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
@@ -44,7 +43,6 @@ CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 开化新闻综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
 开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8zzhed
 庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed
-庆元新闻综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
 嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
@@ -99,8 +97,8 @@ CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 ☘️福建频道,#genre#
 三明新闻综合,https://ls.qingting.fm/live/5022100/64k.m3u8
-云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8
 云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,
+云霄综合,http://live.zzyxxw.com:85/live/xwzh.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 
 ☘️海南频道,#genre#
@@ -167,8 +165,8 @@ CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 🌊港·澳·台,#genre#
 翡翠台,http://r.jdshipin.com/thuYX
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+翡翠台,http://o11.163189.xyz/stream/tvb/fct/
 明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://r.jdshipin.com/ZQ4kN
@@ -177,7 +175,6 @@ CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 靖天资讯,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv065&token=https://t.me/GPT_858
 
@@ -185,8 +182,6 @@ J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
 NewTV惊悚悬疑,https://iptv.catvod.com/live.php?id=NewTV%E6%83%8A%E6%82%9A%E6%82%AC%E7%96%91
 NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
 靖天映画,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv055&token=https://t.me/GPT_858
-天映经典,http://o11.163189.xyz/stream/live/ccm/
-天映经典,https://php.jdshipin.com:2096/smt.php?id=Celestial2
 无线星河,https://cdn6.163189.xyz/163189/tvbxh
 
 🎥咪咕直播,#genre#
@@ -196,13 +191,12 @@ NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7
 睛彩广场舞,https://iptv.catvod.com/live.php?id=%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E
 
 🪁动画频道,#genre#
-七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966
 火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
-猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879
 猫和老鼠,https://live.ottiptv.cc/huya/11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
+猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879
 经典动漫,https://www.goodiptv.club/yy/22777075
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
@@ -215,21 +209,8 @@ NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7
 笑傲江湖,https://live.ottiptv.cc/huya/23865142
 笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=23865142
 笑傲江湖,https://live.metshop.top/huya/23865142
-笑傲江湖,https://live.ottiptv.cc/huya/26355790
-笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=26355790
-笑傲江湖,https://live.metshop.top/huya/26355790
 天龙八部,https://live.metshop.top/huya/23903123
-天龙八部,http://cdn.jdshipin.com:8880/huya.php?id=20985816
-天龙八部,https://live.metshop.top/huya/20985816
-天龙八部,https://live.ottiptv.cc/huya/20985816
-西游记,http://live.ottiptv.cc/huya/20985836
-西游记,http://cdn.jdshipin.com:8880/huya.php?id=30080242
+鹿鼎记,https://live.ottiptv.cc/yy/28265277
+仙剑奇侠传,https://live.ottiptv.cc/yy/1382749903
 西游记,https://lbds.us.ci/26355861
-三国演义,http://cdn.jdshipin.com:8880/huya.php?id=11602081
-水浒传,http://live.ottiptv.cc/huya/26355860
-封神榜,https://live.metshop.top/huya/29465849
-封神榜,http://cdn.jdshipin.com:8880/huya.php?id=29465849
-封神榜,https://live.ottiptv.cc/huya/29465849
-射雕英雄传,https://live.metshop.top/huya/23824164
-射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
-射雕英雄传,https://live.ottiptv.cc/huya/23824164
+新白娘子传奇,https://live.ottiptv.cc/yy/1354490667
